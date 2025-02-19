@@ -1,12 +1,12 @@
 <div align="center">
 
 ```ascii
- __  __           _                           _ 
-|  \/  | ___   __| |_   _   ___  ___   __ _(_)
-| |\/| |/ _ \ / _` | | | | / __|/ _ \ / _` | |
-| |  | | (_) | (_| | |_| | \__ \ (_) | (_| | |
-|_|  |_|\___/ \__,_|\__, | |___/\___/ \__, |_|
-                     |___/             |___/    
+  __  __ _  __
+ |  \/  | |/ /
+ | \  / | ' / 
+ | |\/| |  <  
+ | |  | | . \ 
+ |_|  |_|_|\_\
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C4A467&center=true&vCenter=true&width=435&lines=Mechatronics+Engineer;Robotics+Enthusiast;Automation+Specialist;Problem+Solver;Innovation+Driver)](https://git.io/typing-svg)
