@@ -102,7 +102,7 @@ mindmap
 <div align="center">
 
 ### Coming Soon!
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
 
 </div>
 
